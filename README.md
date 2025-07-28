@@ -1,31 +1,4 @@
-<!DOCTYPE html>
-<html lang="zh-Hant">
-<head>
-  <meta charset="UTF-8">
-  <title>離職倒數日記</title>
-  <style>
-    body {
-      background-color: #f5f3eb;
-      color: #333333;
-      font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
-      line-height: 1.8;
-      max-width: 800px;
-      margin: 40px auto;
-      padding: 0 20px;
-    }
-    h1 {
-      text-align: center;
-      color: #444;
-    }
-    .entry {
-      margin-bottom: 40px;
-    }
-    h2 {
-      border-bottom: 1px solid #ccc;
-      padding-bottom: 5px;
-      color: #666;
-    }
-  </style>
+
 </head>
 <body>
   <h1>離職倒數日記</h1>
